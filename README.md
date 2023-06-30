@@ -34,3 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheetalpatidar&show_icons=true&locale=en" alt="sheetalpatidar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheetalpatidar&" alt="sheetalpatidar" /></p>
+
+![Snake animation](https://github.com/SheetalPatidar/SheetalPatidar/blob/output/github-contribution-grid-snake.svg)
+
